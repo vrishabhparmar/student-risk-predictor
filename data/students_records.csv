@@ -1,0 +1,11 @@
+student_id,name,attendance,assignment_score,exam_score,risk_level
+101,Alice,85,76,64,Medium
+102,Bob,60,55,40,High
+103,Carol,92,88,91,Low
+104,David,45,50,38,High
+105,Ella,78,70,75,Medium
+106,Frank,90,85,89,Low
+107,Gina,65,60,50,Medium
+108,Harry,55,48,30,High
+109,Ivy,88,82,84,Low
+110,Jack,72,68,62,Medium
